@@ -7,10 +7,11 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/102183530/162502496-dde18556-e813-434d-a00e-8d85c32c114c.png)
+
 
 ### Analysis of Outcomes Based on Goals
-
-### Challanges and Difficutlies Encountered
+https://github.com/knittelc/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png### Challanges and Difficutlies Encountered
 
 ## Results
 
